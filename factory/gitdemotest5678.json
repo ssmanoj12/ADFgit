@@ -1,0 +1,9 @@
+{
+	"name": "gitdemotest5678",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "95d25dcf-f76c-42e9-984a-91d9db188b1c",
+		"tenantId": "acc51828-5c12-4d6d-8220-f5c085afa476"
+	}
+}
